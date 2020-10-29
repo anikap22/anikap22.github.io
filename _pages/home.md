@@ -1,6 +1,7 @@
 ---
 title: "Data Science and Statistical Consulting"
 layout: single
+classes: wide
 permalink: /home/
 date: 2020-10-20
 header:

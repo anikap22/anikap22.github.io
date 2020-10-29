@@ -58,16 +58,20 @@ author:
   name   : "Anika Staccone"
   avatar : "/assets/images/headshot.jpg"
   bio    : "Ecologist turned data scientist, enthusiastic about messy data, modeling, machine learning, and visualization."
+  location: "New York / USA"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://anikap22.github.io/home"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/anikap22"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:anika.petach@gmail.com"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin-in"
+      url: "https://linkedin.com/in/anika-staccone"
 
 footer:
   links:

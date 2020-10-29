@@ -1,14 +1,17 @@
 ---
 permalink: /about/
 title: "About"
+layout: single
+classes: wide
 ---
 
 ## Thalweg Data Science
-Thalweg data science is here for your data needs! We work across the data science pipeline: database construction, data cleaning, business intelligence, and advanced analytics.
+Thalweg data science is here for your data needs! We work across the data science pipeline: **database construction**, **data cleaning**, **data modeling**, **business intelligence**, and **advanced analytics**.
 
-## Services:
+## Services
 Database Development
-icon: "fas fa-fw fa-database"
+
+Data Cleaning
 
 Analysis
 
@@ -20,5 +23,5 @@ Code Support
 
 Training
 
-## About:
-Link to CV
+## About
+You can [download](https://anikap22.github.io/assets/images/Staccone_CV_October2020.pdf) my CV here. 
