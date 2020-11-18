@@ -18,15 +18,18 @@ intro:
 I can help you assemble your data
 
 ### <i class="far fa-chart-bar"></i> Data analytics: 
-telling a story with data
+I clean, manipulate, and process data using tools such as SQL, R, and Python.
 
 ### <i class="fab fa-think-peaks"></i> Data science:
-Using advanced analytics derive new insights from your data
+Use advanced analytics derive new insights from your data
 
 ### <i class="fas fa-pen-fancy"></i> Visualization and figures
-I will visualize findings using tools such as ggplot, seaborn, and post-production tools
+I create visualizations using tools such as ggplot (R), leaflet (R), seaborn (Python), ArcMap, and post-production tools
 
 ### <i class="fas fa-code-branch"></i> Code support
 
 
 ### <i class="fas fa-chalkboard"></i> Training
+
+
+Contact me for your data management, processing, modeling, and visualization needs!
