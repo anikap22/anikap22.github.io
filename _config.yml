@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Thalweg Data Science
+title: Alder Data Science Consulting
 email: anika.petach@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Ecologist turned data scientist, enthusiastic about messy data, modeling, machine learning, and visualization.

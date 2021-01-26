@@ -87,6 +87,10 @@ I have worked with geostatistics both in R and ArcMap. Here are a few example fi
 
 {% include gallery id="gallery_acrmap" caption="This is a sample gallery to go along with this case study." %}
 
+#### Shiny dashboards:
+I can make interactive dashboards using R shiny. Here is an example:
+<iframe src="https://cengiz-zopluoglu.shinyapps.io/names/" class="l-screen-inset shaded" height="1000px"></iframe>
+
 ## Projects
 ### Estimating nitrogen fixed across the U.S.
 **Abstract:** <font size="3">Quantifying human impacts on the nitrogen (N) cycle and investigating natural ecosystem N cycling depend on the magnitude of inputs from natural biological nitrogen fixation (BNF). Here, we present two bottom-up approaches to quantify tree-based symbiotic BNF based on forest inventory data across the coterminous USA and SE Alaska. For all major N-fixing tree genera, we quantify BNF inputs using (1) ecosystem N accretion rates (kg N ha<sup>-1</sup> yr<sup>-1</sup>) scaled with spatial data on tree abundance and (2) percent of N derived from fixation (%Ndfa) scaled with tree N demand (from tree growth rates and stoichiometry). We estimate that trees fix 0.30-0.88 Tg N yr<sup>-1</sup> across the study area (1.4-3.4 kg N ha<sup>-1</sup> yr<sup>-1</sup>). Tree-based N fixation displays distinct spatial variation that is dominated by two genera, Robinia (64% of tree-associated BNF) and Alnus (24%). The third most important genus, Prosopis, accounted for 5%. Compared to published estimates of other N fluxes, tree-associated BNF accounted for 0.59 Tg N yr<sup>-1</sup>, similar to asymbiotic (0.37 Tg N yr<sup>-1</sup>) and understory symbiotic BNF (0.48 Tg N yr<sup>-1</sup>), while N deposition contributed 1.68 Tg N yr<sup>-1</sup> and rock weathering 0.37 Tg N yr<sup>-1</sup>. Overall, our results reveal previously uncharacterized spatial patterns in tree BNF that can inform large-scale N assessments and serve as a model for improving tree-based BNF estimates worldwide. This updated, lower BNF estimate indicates a greater ratio of anthropogenic to natural N inputs, suggesting an even greater human impact on the N cycle.</font> <br>

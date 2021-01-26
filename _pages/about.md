@@ -5,8 +5,10 @@ layout: single
 classes: wide
 ---
 
-## Thalweg Data Science
-Thalweg data science is here for your data needs! We work across the data science pipeline: **database construction**, **data cleaning**, **data modeling**, **business intelligence**, and **advanced analytics**.
+## Alder Data Science Consulting
+Alder data science is here for your data needs! We work across the data science pipeline: **database construction**, **data cleaning**, **data modeling**, **business intelligence**, and **advanced analytics**.
+
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/logo_greybean.png)
 
 ## Services
 Database Development
